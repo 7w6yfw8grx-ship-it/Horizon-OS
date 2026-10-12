@@ -1,18 +1,46 @@
-HorizonOS Development Roadmap
+\# HorizonOS Development Roadmap
 
 
 
-Phase 1
+\## Current Status
+
+
+
+\- Builds successfully using EDK II
+
+\- Generates Horizon.efi
+
+\- Boots successfully in VirtualBox
+
+\- Displays the Horizon OS startup screen
+
+\- Accepts keyboard input before exiting
+
+\- Version: v0.1.0-alpha
+
+
+
+\## Phase 1 - UEFI Foundation
+
+
 
 \- UEFI Application
 
 \- VirtualBox Boot
 
-\- RoryOS Screen
+\- Horizon OS Startup Screen
+
+\- Horizon Branding
+
+\- Build System
+
+\- GitHub Repository
 
 
 
-Phase 2
+\## Phase 2 - Core System Development
+
+
 
 \- Kernel
 
@@ -20,9 +48,15 @@ Phase 2
 
 \- Graphics
 
+\- File System
+
+\- Driver Framework
 
 
-Phase 3
+
+\## Phase 3 - User Management
+
+
 
 \- Login System
 
@@ -30,9 +64,13 @@ Phase 3
 
 \- Accounts
 
+\- User Profiles
 
 
-Phase 4
+
+\## Phase 4 - Desktop Environment
+
+
 
 \- Desktop
 
@@ -40,13 +78,53 @@ Phase 4
 
 \- Settings
 
+\- Window Manager
+
+\- Application Launcher
 
 
-Phase 5
+
+\## Phase 5 - System Features
+
+
 
 \- Updates
 
 \- Recovery System
 
 \- Family Manager
+
+\- Device Management
+
+\- Security Improvements
+
+
+
+\## Long-Term Goals
+
+
+
+\- Modern Blue Theme
+
+\- Fast Boot Times
+
+\- Lightweight Design
+
+\- User-Focused Experience
+
+\- Independent Operating System Ecosystem
+
+
+
+\## Milestones Achieved
+
+
+
+\- First Successful Horizon OS Build
+
+\- First Successful Horizon EFI Application
+
+\- First Successful Horizon OS Boot in VirtualBox
+
+\- First Visible Horizon OS Startup Screen
 

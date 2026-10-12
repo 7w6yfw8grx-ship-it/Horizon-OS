@@ -1,71 +1,86 @@
-HorizonOS Specification
+\# HorizonOS Specification
 
 
 
-Identity
+\## Identity
 
 
 
-Name: RoryOS
+\*\*Name:\*\* HorizonOS
 
 
 
-Slogan:
+\*\*Slogan:\*\*  
 
 Built for people, not money.
 
 
 
-Primary Colour:
+\*\*Primary Colour:\*\*  
 
 Blue
 
 
-Technical
+
+\## Technical
 
 
 
-Architecture:
+\*\*Architecture:\*\*  
 
 x86-64
 
 
 
-Boot Method:
+\*\*Boot Method:\*\*  
 
 UEFI
 
 
 
-Languages:
-
-C and Assembly
+\*\*Programming Languages:\*\*  
 
 
 
-Development Environment:
+\- C
 
-VS Code
-
-
-
-Testing:
-
-VirtualBox
+\- Assembly
 
 
 
-Version Control:
-
-GitHub
+\*\*Development Environment:\*\*  
 
 
 
-Users
+\- Visual Studio Code
+
+\- EDK II
+
+\- Visual Studio 2022 Build Tools
 
 
 
-Account Types:
+\*\*Testing Platform:\*\*  
+
+
+
+\- VirtualBox
+
+
+
+\*\*Version Control:\*\*  
+
+
+
+\- GitHub
+
+
+
+\## Users
+
+
+
+\*\*Account Types:\*\*
 
 
 
@@ -77,25 +92,27 @@ Account Types:
 
 
 
-Multiple Family Managers are allowed.
+Multiple Family Managers are supported.
 
 
 
- Updates
+\## Updates
 
 
 
-\- User controlled updates
+\- User-controlled updates
 
 \- Rollback created before each update
 
 \- Rollback retained for 4 days
 
-\- Automatic recovery available if boot failures occur
+\- Automatic recovery available after boot failures
+
+\- Update verification before installation
 
 
 
- Features
+\## Features
 
 
 
@@ -113,9 +130,13 @@ Multiple Family Managers are allowed.
 
 \- Standard Mode
 
+\- Blue-themed Interface
+
+\- Family Management Tools
 
 
- Security
+
+\## Security
 
 
 
@@ -125,25 +146,79 @@ Multiple Family Managers are allowed.
 
 \- Application Restrictions
 
-\- Password Protected Restrictions
+\- Password-Protected Restrictions
+
+\- Recovery Protection
+
+\- Account-Based Permissions
 
 
 
- Philosophy
+\## Philosophy
 
 
 
-Fast and modern.
+\- Fast and modern
+
+\- Designed to work offline
+
+\- Internet connection recommended, not required
+
+\- User-first design
+
+\- Built for learning and experimentation
+
+\- Built for people, not money
 
 
 
-Works offline.
+\## Current Status
 
 
 
-Internet recommended.
+\*\*Version:\*\* v0.1.0-alpha
 
 
 
-Built for people, not money.
+\*\*Completed:\*\*
+
+
+
+\- EDK II build environment configured
+
+\- Horizon EFI application created
+
+\- Horizon.efi generation working
+
+\- Successful UEFI boot in VirtualBox
+
+\- Horizon OS startup screen displayed
+
+\- Keyboard input support working
+
+
+
+\## Future Goals
+
+
+
+\- Custom Horizon logo
+
+\- Graphical boot screen
+
+\- Desktop environment
+
+\- File Explorer
+
+\- Settings application
+
+\- User accounts and profiles
+
+\- Family management system
+
+\- Recovery environment
+
+\- Independent HorizonOS ecosystem
+
+
 
