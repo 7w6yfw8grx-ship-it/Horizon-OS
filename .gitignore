@@ -1,6 +1,3 @@
-# Git
-.gitignore
-
 # Virtual Disks
 *.vhd
 *.vhdx
