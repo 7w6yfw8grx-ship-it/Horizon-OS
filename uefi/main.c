@@ -7,7 +7,7 @@ EFI_STATUS EFIAPI efi_main(
 {
     InitializeLib(ImageHandle, SystemTable);
 
-    Print(L"RoryOS\r\n");
+    Print(L"HorizonOS\r\n");
     Print(L"Built for people, not money.\r\n");
 
     while (1)

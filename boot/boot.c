@@ -1,5 +1,5 @@
 #include <stdint.h>
 
-void roryos_boot(void)
+void Horizon_boot(void)
 {
 }

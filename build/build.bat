@@ -1,6 +1,6 @@
 @echo off
 
-echo RoryOS Build System
+echo Horizon Build System
 echo ==================
 
 clang --version
