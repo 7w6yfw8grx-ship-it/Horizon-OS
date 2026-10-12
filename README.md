@@ -1,4 +1,4 @@
-RoryOS
+HorizonOS
 
 A hobby operating system project.
 
