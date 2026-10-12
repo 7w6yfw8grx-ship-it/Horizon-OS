@@ -1,15 +1,21 @@
-# Virtual disks
+# Git
+.gitignore
+
+# Virtual Disks
 *.vhd
 *.vhdx
 
-# EFI binaries
+# EFI Files
 *.efi
 
-# Build outputs
+# Build Outputs
 Build/
 build/
 
-# Debug files
+# Debug Files
 *.pdb
 *.map
 *.dll
+
+# EDK2 Build Output
+edk2/Build/
