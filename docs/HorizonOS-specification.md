@@ -1,4 +1,4 @@
-RoryOS Specification
+HorizonOS Specification
 
 
 
