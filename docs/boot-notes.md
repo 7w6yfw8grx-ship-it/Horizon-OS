@@ -1,4 +1,4 @@
-RoryOS Boot Notes
+HorizonOS Boot Notes
 
 Target:
 - UEFI

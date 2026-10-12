@@ -1,8 +1,8 @@
-\# RoryOS Specification
+RoryOS Specification
 
 
 
-\## Identity
+Identity
 
 
 
@@ -21,8 +21,7 @@ Primary Colour:
 Blue
 
 
-
-\## Technical
+Technical
 
 
 
@@ -62,7 +61,7 @@ GitHub
 
 
 
-\## Users
+Users
 
 
 
@@ -82,7 +81,7 @@ Multiple Family Managers are allowed.
 
 
 
-\## Updates
+ Updates
 
 
 
@@ -96,7 +95,7 @@ Multiple Family Managers are allowed.
 
 
 
-\## Features
+ Features
 
 
 
@@ -116,7 +115,7 @@ Multiple Family Managers are allowed.
 
 
 
-\## Security
+ Security
 
 
 
@@ -130,7 +129,7 @@ Multiple Family Managers are allowed.
 
 
 
-\## Philosophy
+ Philosophy
 
 
 
