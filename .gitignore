@@ -1,0 +1,15 @@
+# Virtual disks
+*.vhd
+*.vhdx
+
+# EFI binaries
+*.efi
+
+# Build outputs
+Build/
+build/
+
+# Debug files
+*.pdb
+*.map
+*.dll
